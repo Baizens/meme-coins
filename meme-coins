@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meme Coins as a Cultural Artifact</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+    }
+    header {
+      background-color: #222;
+      color: #fff;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    nav {
+      background: #333;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    .container {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    h2 {
+      color: #444;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 0.5rem;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 1rem 0;
+    }
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Meme Coins: A Cultural Artifact of the Digital Age</h1>
+  </header>
+  <nav>
+    <a href="#intro">Introduction</a>
+    <a href="#origins">Origins</a>
+    <a href="#community">Community</a>
+    <a href="#identity">Identity & Culture</a>
+    <a href="#influencers">Influence & Virality</a>
+    <a href="#evolution">Evolution</a>
+    <a href="#personal">Personal Experience</a>
+    <a href="#conclusion">Conclusion</a>
+  </nav>
+  <div class="container">
+    <section id="intro">
+      <h2>Introduction</h2>
+      <p>In the 2000s, meme culture and finance collided to create a unique digital artifact: meme coins. These joke-based cryptocurrencies have evolved into significant financial and social movements, revealing how humor, community, and rebellion shape modern finance.</p>
+    </section>
+
+    <section id="origins">
+      <h2>Origins of Meme Coins</h2>
+      <p>Dogecoin, the first meme coin, was created in 2013 by Billy Markus and Jackson Palmer to parody the crypto boom. With the Shiba Inu "Doge" meme as its mascot, it quickly gained a playful community, reaching $85 billion in market cap in 2021.</p>
+      <img src="https://dailycoin.com/dogecoin-original-cryptocurrency-memecoin/" alt="Dogecoin Origin" />
+    </section>
+
+    <section id="community">
+      <h2>Community & Speculation</h2>
+      <p>Meme coins thrive on inclusivity and internet community engagement. Platforms like Reddit and Discord fuel these movements, creating a culture where anyone can invest and collaborate.</p>
+      <img src="https://www.tronweekly.com/meme-coin-dilemma-of-2024-community-takeovers/" alt="Crypto Community" />
+    </section>
+
+    <section id="identity">
+      <h2>Changing Investment Identity</h2>
+      <p>For Gen Z and millennials, meme coins reflect a cultural shift away from traditional investing. Fueled by post-2008 skepticism, these users treat investing more like entertainment—gamified, social, and rebellious.</p>
+    </section>
+
+    <section id="influencers">
+      <h2>Influencers & Viral Value</h2>
+      <p>Figures like Elon Musk have shown how meme coins are influenced more by social media than by traditional economics. A single tweet can skyrocket a coin's value, turning jokes into market movers.</p>
+      <img src="https://fabiandablander.com/r/Causal-Doge.html" alt="Musk & Dogecoin" />
+    </section>
+
+    <section id="evolution">
+      <h2>Evolution of the Ecosystem</h2>
+      <p>Many meme coins now support real-world projects, NFTs, and decentralized exchanges. Dogecoin has funded charitable causes and others like Shiba Inu are evolving into full-fledged DeFi ecosystems.</p>
+    </section>
+
+    <section id="personal">
+      <h2>Personal Experience</h2>
+      <p>I personally engaged in the meme coin space, launching the "Mid guy" coin which earned me thousands in hours. But losses, like missing out on the "Rizzmas" coin spike, reminded me how risky and speculative this space can be.</p>
+      <img src="https://phantom.com/" alt="Crypto Chart" />
+      <img src="https://evade-nextbot.fandom.com/wiki/Chill_Guy" alt="Chill Guy Coin" />
+    </section>
+
+    <section id="conclusion">
+      <h2>Conclusion</h2>
+      <p>Meme coins are more than jokes—they're cultural markers of how digital natives redefine value, community, and legitimacy. From humor to activism, they reflect a generation's approach to finance in the internet age.</p>
+      <img src="https://www.debutinfotech.com/blog/what-are-meme-coins" alt="Meme Coin Summary" />
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Bryce Aizenshtat | ENC 1102 Project</p>
+  </footer>
+</body>
+</html>
